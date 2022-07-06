@@ -1,6 +1,6 @@
 import Header from "./components/Layout/Header";
 import  React from "react";
-import { Fragment, useState } from "react";
+import { useState } from "react";
 import Meals from "./components/Meals/Meals";
 import Cart from "./components/Cart/Cart";
 import CartProvider from "./store/cartProvider";
