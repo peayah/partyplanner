@@ -53,7 +53,7 @@ const orderHandler =() => {
             <span>Total Amount</span>
             <span>{totalAmount}</span>
         </div>
-        {isCheckout && <Checkout/>}
+        {isCheckout && <Checkout onCancel={props.onClose}/>}
         {!isCheckout && modalActions}
         
     </Modal>  
