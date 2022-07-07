@@ -15,11 +15,13 @@ const Checkout = (props) => {
             <div className={classes.control}>
                 <label htmlFor="zip">Zip Code</label>
                 <input type="text" id="zip" />
-                <div className={classes.control}>
+            </div>
+            <div className={classes.control}>
                 <label htmlFor="city">City</label>
                 <input type="text" id="city" />
             </div>
-            </div>
+            <button>Confirm</button>
+            
         </form>
     )
 } 
