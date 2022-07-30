@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e94979674d2a4f9260ef",
-    "url": "/partyplanner/static/css/main.838d5de9.chunk.css"
+    "revision": "4edac87553acaed3353f",
+    "url": "/partyplanner/static/css/main.046962c7.chunk.css"
   },
   {
-    "revision": "e94979674d2a4f9260ef",
-    "url": "/partyplanner/static/js/main.e9497967.chunk.js"
+    "revision": "4edac87553acaed3353f",
+    "url": "/partyplanner/static/js/main.4edac875.chunk.js"
   },
   {
     "revision": "fad06857e6d4f38d12bf",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/partyplanner/static/media/food.55c74990.jpeg"
   },
   {
-    "revision": "8d20f77a066a3d65722a38816d8be68a",
+    "revision": "12b5f08eab65cd4609023cbfcb9e0a78",
     "url": "/partyplanner/index.html"
   }
 ];
